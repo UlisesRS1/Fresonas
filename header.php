@@ -27,7 +27,10 @@
                             <span style="display: inline-block; max-width: 100%;">
                                 Fresonas
                             </span>
+
                         </h3>
+
+
                         <a class="nav-link active text-center fs-5 my-0 my-lg-3" aria-current="page" href="#carousel">Inicio</a>
                         <a class="nav-link text-center fs-5 my-0 my-lg-3" href="#cards">Menú</a>
                         <a class="nav-link text-center fs-5 my-0 my-lg-3" href="#section">Recetas</a>
