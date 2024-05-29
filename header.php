@@ -25,7 +25,7 @@
                         </div>
                         <h3 class="mt-2 text-center fs-5 d-none d-lg-block margen-derecho" style="white-space: nowrap; overflow: hidden;">
                             <span style="display: inline-block; max-width: 100%;">
-                                Fresa <br/> con <br/> crema
+                                Fresas <br/> con <br/> crema
                             </span>
                         </h3>
                         <a class="nav-link active text-center fs-5 my-0 my-lg-3" aria-current="page" href="#carousel">Inicio</a>
