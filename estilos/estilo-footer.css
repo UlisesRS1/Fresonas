@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.content {
+    flex: 1;
+    padding-bottom: 50px; /* Ajusta este valor según sea necesario para reducir el espacio entre el contenido principal y el pie de página */
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    background-color: #360707;
+    color: aliceblue;
+    padding: 20px 0;
+}
+.footer a {
+    color: aliceblue; 
+    text-decoration: none; 
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer img {
+    filter: invert(100%);
+}

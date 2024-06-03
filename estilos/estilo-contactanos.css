@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.form-container {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    /*border: 1px solid #ccc;
+    border-radius: 10px;*/
+    background-color: #fff;
+}
+.fuente{
+   color: #b03535;
+   
+}
+.privaci-link{
+    color: rgb(134, 13, 13);
+}
